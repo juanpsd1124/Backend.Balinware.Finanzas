@@ -1,13 +1,8 @@
-﻿using Dapper;
-using Balinware.Finanzas.Aplicacion.Interface.Persistence;
-using Balinware.Finanzas.Domain.Entidades;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Balinware.Finanzas.Aplicacion.Interface.Persistence;
 using Balinware.Finanzas.Persistence.Context;
-using System.Data;
-using System.Security.Principal;
+using Dapper;
 using Newtonsoft.Json;
+using System.Data;
 
 namespace Balinware.Finanzas.Persistence.Repositories
 {

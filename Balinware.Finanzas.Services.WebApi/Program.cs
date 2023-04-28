@@ -1,9 +1,4 @@
-
-
-
-
-
-using Balinware.Finanzas.Applicaiton.UseCases;
+using Balinware.Finanzas.Application.UseCases;
 using Balinware.Finanzas.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,9 +12,6 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddPersistenceServices(builder.Configuration);
 builder.Services.AddApplicationServices();
 
-
-
-builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 

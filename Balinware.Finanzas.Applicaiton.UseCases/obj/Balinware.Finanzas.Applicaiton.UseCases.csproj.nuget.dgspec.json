@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Applicaiton.UseCases.csproj": {}
+    "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Applicaiton.UseCases.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj": {
+    "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj",
         "projectName": "Balinware.Finanzas.Aplicacion.Interface",
-        "projectPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj",
+        "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj",
         "packagesPath": "C:\\Users\\jposada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\obj\\",
+        "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,11 +34,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {
-                "projectPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj"
+              "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {
+                "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj"
               },
-              "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj"
+              "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Applicaiton.UseCases.csproj": {
+    "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Applicaiton.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Applicaiton.UseCases.csproj",
+        "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Applicaiton.UseCases.csproj",
         "projectName": "Balinware.Finanzas.Applicaiton.UseCases",
-        "projectPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Applicaiton.UseCases.csproj",
+        "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Applicaiton.UseCases.csproj",
         "packagesPath": "C:\\Users\\jposada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\obj\\",
+        "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -102,11 +102,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj": {
-                "projectPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj"
+              "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj": {
+                "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj"
               },
-              "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj"
+              "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {
+    "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
         "projectName": "Balinware.Finanzas.Domain",
-        "projectPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
+        "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
         "packagesPath": "C:\\Users\\jposada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\obj\\",
+        "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -207,14 +207,14 @@
         }
       }
     },
-    "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
+    "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj",
+        "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj",
         "projectName": "Balinware.Finanzas.Transversal.Common",
-        "projectPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj",
+        "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj",
         "packagesPath": "C:\\Users\\jposada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\obj\\",
+        "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

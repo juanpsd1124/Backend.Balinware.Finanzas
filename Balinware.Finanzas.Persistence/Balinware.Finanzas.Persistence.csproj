@@ -15,11 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Balinware.Finanzas.Aplicacion.Interface\Balinware.Finanzas.Aplicacion.Interface.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="DTO\" />
+    <ProjectReference Include="..\Balinware.Finanzas.Aplicacion.Interface\Balinware.Finanzas.Application.Interface.csproj" />
   </ItemGroup>
 
 </Project>

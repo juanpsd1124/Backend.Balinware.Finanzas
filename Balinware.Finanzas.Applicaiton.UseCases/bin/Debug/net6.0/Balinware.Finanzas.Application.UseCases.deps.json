@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Balinware.Finanzas.Application.UseCases/1.0.0": {
+        "dependencies": {
+          "Balinware.Finanzas.Application.DTO": "1.0.0",
+          "Balinware.Finanzas.Application.Interface": "1.0.0",
+          "Balinware.Finanzas.Transversal.Common": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+        },
+        "runtime": {
+          "Balinware.Finanzas.Application.UseCases.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "Balinware.Finanzas.Application.DTO/1.0.0": {
+        "runtime": {
+          "Balinware.Finanzas.Application.DTO.dll": {}
+        }
+      },
+      "Balinware.Finanzas.Application.Interface/1.0.0": {
+        "dependencies": {
+          "Balinware.Finanzas.Application.DTO": "1.0.0",
+          "Balinware.Finanzas.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Balinware.Finanzas.Application.Interface.dll": {}
+        }
+      },
+      "Balinware.Finanzas.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Balinware.Finanzas.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Balinware.Finanzas.Application.UseCases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h3j/QfmFN4S0w4C2A6X7arXij/M/OVw3uQHSOFxnND4DyAzO1F9eMX7Eti7lU/OkSthEE0WzRsfT/Dmx86jzCw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    },
+    "Balinware.Finanzas.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Balinware.Finanzas.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Balinware.Finanzas.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

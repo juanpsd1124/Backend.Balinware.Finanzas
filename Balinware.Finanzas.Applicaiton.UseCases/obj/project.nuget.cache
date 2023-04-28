@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "627gFHuzVjfRwhjFZeji2S7Fneq5yXGXfAO60pnCgmJvW6rih+GvNkhcFnSZf5XzMaZfQDUrOy1cSNIpBCD7eA==",
+  "dgSpecHash": "d90UjWgZViMqXGWHDURbyK+CX8CDllZiBgLZtYcP9T5KQ0f/CerJcJ+z96kSDEEmvTidefZEFUaaw045K03uhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Applicaiton.UseCases.csproj",
+  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Application.UseCases.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],

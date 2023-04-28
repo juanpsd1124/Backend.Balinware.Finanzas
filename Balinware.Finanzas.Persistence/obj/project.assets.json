@@ -263,28 +263,28 @@
           }
         }
       },
-      "Balinware.Finanzas.Aplicacion.Interface/1.0.0": {
+      "Balinware.Finanzas.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Balinware.Finanzas.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Balinware.Finanzas.Application.DTO.dll": {}
+        }
+      },
+      "Balinware.Finanzas.Application.Interface/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Balinware.Finanzas.Domain": "1.0.0",
+          "Balinware.Finanzas.Application.DTO": "1.0.0",
           "Balinware.Finanzas.Transversal.Common": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Balinware.Finanzas.Aplicacion.Interface.dll": {}
+          "bin/placeholder/Balinware.Finanzas.Application.Interface.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Balinware.Finanzas.Aplicacion.Interface.dll": {}
-        }
-      },
-      "Balinware.Finanzas.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Balinware.Finanzas.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Balinware.Finanzas.Domain.dll": {}
+          "bin/placeholder/Balinware.Finanzas.Application.Interface.dll": {}
         }
       },
       "Balinware.Finanzas.Transversal.Common/1.0.0": {
@@ -796,15 +796,15 @@
         "version.txt"
       ]
     },
-    "Balinware.Finanzas.Aplicacion.Interface/1.0.0": {
+    "Balinware.Finanzas.Application.DTO/1.0.0": {
       "type": "project",
-      "path": "../Balinware.Finanzas.Aplicacion.Interface/Balinware.Finanzas.Aplicacion.Interface.csproj",
-      "msbuildProject": "../Balinware.Finanzas.Aplicacion.Interface/Balinware.Finanzas.Aplicacion.Interface.csproj"
+      "path": "../Balinware.Finanzas.Application.DTO/Balinware.Finanzas.Application.DTO.csproj",
+      "msbuildProject": "../Balinware.Finanzas.Application.DTO/Balinware.Finanzas.Application.DTO.csproj"
     },
-    "Balinware.Finanzas.Domain/1.0.0": {
+    "Balinware.Finanzas.Application.Interface/1.0.0": {
       "type": "project",
-      "path": "../Balinware.Finanzas.Domain/Balinware.Finanzas.Domain.csproj",
-      "msbuildProject": "../Balinware.Finanzas.Domain/Balinware.Finanzas.Domain.csproj"
+      "path": "../Balinware.Finanzas.Aplicacion.Interface/Balinware.Finanzas.Application.Interface.csproj",
+      "msbuildProject": "../Balinware.Finanzas.Aplicacion.Interface/Balinware.Finanzas.Application.Interface.csproj"
     },
     "Balinware.Finanzas.Transversal.Common/1.0.0": {
       "type": "project",
@@ -814,7 +814,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Balinware.Finanzas.Aplicacion.Interface >= 1.0.0",
+      "Balinware.Finanzas.Application.Interface >= 1.0.0",
       "Dapper >= 2.0.123",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0",
@@ -830,11 +830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Persistence\\Balinware.Finanzas.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Persistence\\Balinware.Finanzas.Persistence.csproj",
       "projectName": "Balinware.Finanzas.Persistence",
-      "projectPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Persistence\\Balinware.Finanzas.Persistence.csproj",
+      "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Persistence\\Balinware.Finanzas.Persistence.csproj",
       "packagesPath": "C:\\Users\\jposada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -857,8 +857,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj": {
-              "projectPath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Aplicacion.Interface.csproj"
+            "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj": {
+              "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj"
             }
           }
         }

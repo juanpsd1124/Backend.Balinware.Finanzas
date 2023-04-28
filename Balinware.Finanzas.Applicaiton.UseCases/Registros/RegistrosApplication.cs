@@ -2,13 +2,8 @@
 using Balinware.Finanzas.Aplicacion.Interface.UseCases;
 using Balinware.Finanzas.Persistence;
 using Pacagroup.Ecommerce.Transversal.Common;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Balinware.Finanzas.Applicaiton.UseCases.Registros
+namespace Balinware.Finanzas.Application.UseCases.Registros
 {
     public class RegistrosApplication : IRegistrosApplication
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UjB9u83hqiq0c9tB87SH6lmKLpKEMq3HXp3fw4F8jsqz16Z4Aq66ugP9f/SGvRKBHRcMcw0lK52Vj7DSV8T/kg==",
+  "dgSpecHash": "6VVAAfsI2BnaeIoke7X1rQ8OYCSfrUjD/kaCZ2/FqySuFn7tYiHwN+w+DxbEW5YweCvSfEDaMdWK4LRC5QxCmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jposada\\Desktop\\Pacagroup.Ecommerce\\Balinware.Finanzas\\Balinware.Finanzas.Persistence\\Balinware.Finanzas.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Persistence\\Balinware.Finanzas.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jposada\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

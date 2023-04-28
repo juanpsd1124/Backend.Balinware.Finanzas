@@ -1,15 +1,9 @@
-﻿using Balinware.Finanzas.Aplicacion.Interface.Persistence;
-using Balinware.Finanzas.Aplicacion.Interface.UseCases;
-using Balinware.Finanzas.Applicaiton.UseCases.Registros;
+﻿using Balinware.Finanzas.Aplicacion.Interface.UseCases;
+using Balinware.Finanzas.Application.UseCases.Registros;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Balinware.Finanzas.Applicaiton.UseCases
+
+namespace Balinware.Finanzas.Application.UseCases
 {
     public static class ConfigureServices
     {

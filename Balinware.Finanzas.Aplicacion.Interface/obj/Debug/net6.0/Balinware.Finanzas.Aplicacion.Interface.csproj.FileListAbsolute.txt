@@ -15,3 +15,20 @@ C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanz
 C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\refint\Balinware.Finanzas.Aplicacion.Interface.dll
 C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.pdb
 C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\ref\Balinware.Finanzas.Aplicacion.Interface.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\bin\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.deps.json
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\bin\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\bin\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\bin\Debug\net6.0\Balinware.Finanzas.Domain.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\bin\Debug\net6.0\Balinware.Finanzas.Transversal.Common.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\bin\Debug\net6.0\Balinware.Finanzas.Domain.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\bin\Debug\net6.0\Balinware.Finanzas.Transversal.Common.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.csproj.CopyComplete
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\refint\Balinware.Finanzas.Aplicacion.Interface.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\Balinware.Finanzas.Aplicacion.Interface.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Aplicacion.Interface\obj\Debug\net6.0\ref\Balinware.Finanzas.Aplicacion.Interface.dll

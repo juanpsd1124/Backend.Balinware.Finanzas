@@ -11,15 +11,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Balinware.Finanzas.Aplicacion.Interface\Balinware.Finanzas.Aplicacion.Interface.csproj" />
-    <ProjectReference Include="..\Balinware.Finanzas.Applicaiton.UseCases\Balinware.Finanzas.Applicaiton.UseCases.csproj" />
+    <ProjectReference Include="..\Balinware.Finanzas.Aplicacion.Interface\Balinware.Finanzas.Application.Interface.csproj" />
+    <ProjectReference Include="..\Balinware.Finanzas.Applicaiton.UseCases\Balinware.Finanzas.Application.UseCases.csproj" />
+    <ProjectReference Include="..\Balinware.Finanzas.Application.DTO\Balinware.Finanzas.Application.DTO.csproj" />
     <ProjectReference Include="..\Balinware.Finanzas.Domain\Balinware.Finanzas.Domain.csproj" />
     <ProjectReference Include="..\Balinware.Finanzas.Persistence\Balinware.Finanzas.Persistence.csproj" />
     <ProjectReference Include="..\Balinware.Finanzas.Transversal.Common\Balinware.Finanzas.Transversal.Common.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="NewFolder\" />
   </ItemGroup>
 
 </Project>

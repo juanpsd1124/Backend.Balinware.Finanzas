@@ -8,8 +8,9 @@
     ".NETCoreApp,Version=v6.0": {
       "Balinware.Finanzas.Services.WebApi/1.0.0": {
         "dependencies": {
-          "Balinware.Finanzas.Aplicacion.Interface": "1.0.0",
-          "Balinware.Finanzas.Applicaiton.UseCases": "1.0.0",
+          "Balinware.Finanzas.Application.DTO": "1.0.0",
+          "Balinware.Finanzas.Application.Interface": "1.0.0",
+          "Balinware.Finanzas.Application.UseCases": "1.0.0",
           "Balinware.Finanzas.Domain": "1.0.0",
           "Balinware.Finanzas.Persistence": "1.0.0",
           "Balinware.Finanzas.Transversal.Common": "1.0.0",
@@ -200,23 +201,29 @@
         }
       },
       "System.Security.Principal.Windows/4.7.0": {},
-      "Balinware.Finanzas.Aplicacion.Interface/1.0.0": {
+      "Balinware.Finanzas.Application.DTO/1.0.0": {
+        "runtime": {
+          "Balinware.Finanzas.Application.DTO.dll": {}
+        }
+      },
+      "Balinware.Finanzas.Application.Interface/1.0.0": {
         "dependencies": {
-          "Balinware.Finanzas.Domain": "1.0.0",
+          "Balinware.Finanzas.Application.DTO": "1.0.0",
           "Balinware.Finanzas.Transversal.Common": "1.0.0"
         },
         "runtime": {
-          "Balinware.Finanzas.Aplicacion.Interface.dll": {}
+          "Balinware.Finanzas.Application.Interface.dll": {}
         }
       },
-      "Balinware.Finanzas.Applicaiton.UseCases/1.0.0": {
+      "Balinware.Finanzas.Application.UseCases/1.0.0": {
         "dependencies": {
-          "Balinware.Finanzas.Aplicacion.Interface": "1.0.0",
+          "Balinware.Finanzas.Application.DTO": "1.0.0",
+          "Balinware.Finanzas.Application.Interface": "1.0.0",
           "Balinware.Finanzas.Transversal.Common": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "runtime": {
-          "Balinware.Finanzas.Applicaiton.UseCases.dll": {}
+          "Balinware.Finanzas.Application.UseCases.dll": {}
         }
       },
       "Balinware.Finanzas.Domain/1.0.0": {
@@ -226,7 +233,7 @@
       },
       "Balinware.Finanzas.Persistence/1.0.0": {
         "dependencies": {
-          "Balinware.Finanzas.Aplicacion.Interface": "1.0.0",
+          "Balinware.Finanzas.Application.Interface": "1.0.0",
           "Dapper": "2.0.123",
           "Microsoft.Extensions.Configuration": "7.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
@@ -404,12 +411,17 @@
       "path": "system.security.principal.windows/4.7.0",
       "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
     },
-    "Balinware.Finanzas.Aplicacion.Interface/1.0.0": {
+    "Balinware.Finanzas.Application.DTO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Balinware.Finanzas.Applicaiton.UseCases/1.0.0": {
+    "Balinware.Finanzas.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Balinware.Finanzas.Application.UseCases/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
