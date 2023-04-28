@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Pacagroup.Ecommerce.Transversal.Common
+namespace Balinware.Finanzas.Transversal.Common
 {
     public class ResponseGeneric<T>
     {

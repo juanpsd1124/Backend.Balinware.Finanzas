@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Balinware.Finanzas.Aplicacion.Interface.Persistence
+namespace Balinware.Finanzas.Application.Interface.Persistence
 {
     public interface IGenericRepository<T> where T : class
     {
@@ -13,7 +13,7 @@ namespace Balinware.Finanzas.Aplicacion.Interface.Persistence
         bool Delete(string id);
         T Get(string id);
         IEnumerable<T> GetAll();
-     
+
 
         #endregion
 

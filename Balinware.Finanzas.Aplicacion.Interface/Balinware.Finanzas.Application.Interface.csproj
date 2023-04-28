@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Balinware.Finanzas.Application.DTO\Balinware.Finanzas.Application.DTO.csproj" />
+    <ProjectReference Include="..\Balinware.Finanzas.Domain\Balinware.Finanzas.Domain.csproj" />
     <ProjectReference Include="..\Balinware.Finanzas.Transversal.Common\Balinware.Finanzas.Transversal.Common.csproj" />
   </ItemGroup>
 

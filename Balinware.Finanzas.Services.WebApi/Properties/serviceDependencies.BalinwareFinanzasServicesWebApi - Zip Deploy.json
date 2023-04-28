@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/BalinwareFinanzasServicesWebApi/apis/BalinwareFinanzasServicesWebApi",
+      "type": "apis.azure"
+    },
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/balinware-finanzas-db/databases/Balinware.Finanzas.DB",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:MovimientosConnection"
+    }
+  }
+}

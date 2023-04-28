@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Balinware.Finanzas.Services.WebApi.props" />
-</Project>

@@ -1,5 +1,4 @@
-﻿
-using Balinware.Finanzas.Aplicacion.Interface.Persistence;
+﻿using Balinware.Finanzas.Application.Interface.Persistence;
 using Balinware.Finanzas.Persistence.Context;
 using Balinware.Finanzas.Persistence.Repositories;
 using Microsoft.Extensions.Configuration;

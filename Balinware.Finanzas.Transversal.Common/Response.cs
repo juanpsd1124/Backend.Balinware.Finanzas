@@ -1,4 +1,4 @@
-﻿namespace Pacagroup.Ecommerce.Transversal.Common
+﻿namespace Balinware.Finanzas.Transversal.Common
 {
     public class Response<T> : ResponseGeneric<T>
     {

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
       "projectName": "Balinware.Finanzas.Domain",
-      "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
+      "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
       "packagesPath": "C:\\Users\\jposada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Balinware.Finanzas\\Balinware.Finanzas.Domain\\obj\\",
+      "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
