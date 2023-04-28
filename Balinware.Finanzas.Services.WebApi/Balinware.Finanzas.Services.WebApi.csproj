@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Balinware.Finanzas.Aplicacion.Interface\Balinware.Finanzas.Aplicacion.Interface.csproj" />
+    <ProjectReference Include="..\Balinware.Finanzas.Applicaiton.UseCases\Balinware.Finanzas.Applicaiton.UseCases.csproj" />
+    <ProjectReference Include="..\Balinware.Finanzas.Domain\Balinware.Finanzas.Domain.csproj" />
+    <ProjectReference Include="..\Balinware.Finanzas.Persistence\Balinware.Finanzas.Persistence.csproj" />
+    <ProjectReference Include="..\Balinware.Finanzas.Transversal.Common\Balinware.Finanzas.Transversal.Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Balinware.Finanzas.Aplicacion.Interface/1.0.0": {
+        "dependencies": {
+          "Balinware.Finanzas.Domain": "1.0.0",
+          "Balinware.Finanzas.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Balinware.Finanzas.Aplicacion.Interface.dll": {}
+        }
+      },
+      "Balinware.Finanzas.Domain/1.0.0": {
+        "runtime": {
+          "Balinware.Finanzas.Domain.dll": {}
+        }
+      },
+      "Balinware.Finanzas.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Balinware.Finanzas.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Balinware.Finanzas.Aplicacion.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Balinware.Finanzas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Balinware.Finanzas.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\bin\Debug\net6.0\Balinware.Finanzas.Transversal.Common.deps.json
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\bin\Debug\net6.0\Balinware.Finanzas.Transversal.Common.dll
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\bin\Debug\net6.0\Balinware.Finanzas.Transversal.Common.pdb
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\obj\Debug\net6.0\Balinware.Finanzas.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\obj\Debug\net6.0\Balinware.Finanzas.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\obj\Debug\net6.0\Balinware.Finanzas.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\obj\Debug\net6.0\Balinware.Finanzas.Transversal.Common.AssemblyInfo.cs
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\obj\Debug\net6.0\Balinware.Finanzas.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\obj\Debug\net6.0\Balinware.Finanzas.Transversal.Common.dll
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\obj\Debug\net6.0\refint\Balinware.Finanzas.Transversal.Common.dll
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\obj\Debug\net6.0\Balinware.Finanzas.Transversal.Common.pdb
+C:\Users\jposada\Desktop\Pacagroup.Ecommerce\Balinware.Finanzas\Balinware.Finanzas.Transversal.Common\obj\Debug\net6.0\ref\Balinware.Finanzas.Transversal.Common.dll
