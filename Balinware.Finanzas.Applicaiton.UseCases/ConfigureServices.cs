@@ -1,4 +1,5 @@
 ﻿using Balinware.Finanzas.Application.Interface.UseCases;
+using Balinware.Finanzas.Application.UseCases.Auths;
 using Balinware.Finanzas.Application.UseCases.Registros;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
@@ -11,6 +12,7 @@ namespace Balinware.Finanzas.Application.UseCases
         {
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
             services.AddScoped<IRegistrosApplication, RegistrosApplication>();
+            services.AddScoped<IAuthsApplication, AuthsApplication>();
 
             return services;
         }

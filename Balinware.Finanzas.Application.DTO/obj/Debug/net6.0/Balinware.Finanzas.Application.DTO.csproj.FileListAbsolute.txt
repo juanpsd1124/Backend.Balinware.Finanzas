@@ -10,3 +10,15 @@ C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Fin
 C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\refint\Balinware.Finanzas.Application.DTO.dll
 C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\Balinware.Finanzas.Application.DTO.pdb
 C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\ref\Balinware.Finanzas.Application.DTO.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\bin\Debug\net6.0\Balinware.Finanzas.Application.DTO.deps.json
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\bin\Debug\net6.0\Balinware.Finanzas.Application.DTO.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\bin\Debug\net6.0\Balinware.Finanzas.Application.DTO.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\Balinware.Finanzas.Application.DTO.csproj.AssemblyReference.cache
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\Balinware.Finanzas.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\Balinware.Finanzas.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\Balinware.Finanzas.Application.DTO.AssemblyInfo.cs
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\Balinware.Finanzas.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\Balinware.Finanzas.Application.DTO.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\refint\Balinware.Finanzas.Application.DTO.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\Balinware.Finanzas.Application.DTO.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Application.DTO\obj\Debug\net6.0\ref\Balinware.Finanzas.Application.DTO.dll

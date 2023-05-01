@@ -10,6 +10,7 @@ namespace Balinware.Finanzas.Application.UseCases.Common.Mappings
         public MappingsProfile()
         {
             CreateMap<Registro, RegistroDto>().ReverseMap();
+            CreateMap<UserAuth, AuthDTO>().ReverseMap();
             //.ForMember(destination => destination.Fecha, source => source.MapFrom(source => source.Fecha));
 
             //CreateMap<Customers, CustomersDto>().ReverseMap()

@@ -17,3 +17,24 @@ C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Fin
 C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Application.Interface.dll
 C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Application.Interface.pdb
 C:\Users\jposada\Documents\Groware\Course Tests\Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Application.DTO.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Application.UseCases.deps.json
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Application.UseCases.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Application.UseCases.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Application.DTO.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Application.Interface.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Domain.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Transversal.Common.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Application.Interface.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Application.DTO.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Transversal.Common.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\bin\Debug\net6.0\Balinware.Finanzas.Domain.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\obj\Debug\net6.0\Balinware.Finanzas.Application.UseCases.csproj.AssemblyReference.cache
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\obj\Debug\net6.0\Balinware.Finanzas.Application.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\obj\Debug\net6.0\Balinware.Finanzas.Application.UseCases.AssemblyInfoInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\obj\Debug\net6.0\Balinware.Finanzas.Application.UseCases.AssemblyInfo.cs
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\obj\Debug\net6.0\Balinware.Finanzas.Application.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\obj\Debug\net6.0\Balinware.Finanzas.Application.UseCases.csproj.CopyComplete
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\obj\Debug\net6.0\Balinware.Finanzas.Application.UseCases.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\obj\Debug\net6.0\refint\Balinware.Finanzas.Application.UseCases.dll
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\obj\Debug\net6.0\Balinware.Finanzas.Application.UseCases.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Applicaiton.UseCases\obj\Debug\net6.0\ref\Balinware.Finanzas.Application.UseCases.dll

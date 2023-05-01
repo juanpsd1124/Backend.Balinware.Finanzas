@@ -12,6 +12,8 @@ namespace Balinware.Finanzas.Persistence
         {
             services.AddSingleton<DapperContext>(); 
             services.AddScoped<IRegistrosRepository, RegistrosRepository>();
+            services.AddScoped<IAuthsRepository, AuthsRepository>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             return services;
         }

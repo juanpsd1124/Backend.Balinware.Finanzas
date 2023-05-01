@@ -155,6 +155,25 @@ GO
 
 EXEC Insertar_Registro 2, '2023-04-28 16:45:57' ,140000,0,1,'Prueba'
 
+CREATE PROCEDURE [dbo].[UsersGetByUserAndPassword]
+(
+    @UserName varchar(30),
+    @Password varchar(150)
+)
+AS
+BEGIN
+    SELECT Id_Usuario, Username, Email, FirstName, LastName, NULL as Password
+    FROM Usuario
+    WHERE UserName = @UserName and Password = @Password
+END
+
+EXEC UsersGetByUserAndPassword 'juan','contrasena1234'
+
+SELECT Id_Usuario, Username, Email, FirstName, LastName, Password
+    FROM Usuario
+    WHERE UserName = 'jposada' and Password = 'contrasena1234'
+
+INSERT INTO Usuario VALUES ('jposada','contrasena1234','jposada@test.com', 'Juan', 'Posada')
 
  
 

@@ -45,8 +45,8 @@ namespace Balinware.Finanzas.Persistence.Repositories
                 parameters.Add("Id_Usuario", idUsuario);
                 parameters.Add("Tipo_Movimiento", tipoMovimiento);
                 var registros = connection.QuerySingle<string>(query, param: parameters, commandType: CommandType.StoredProcedure);
-                var result = JsonConvert.DeserializeObject<IEnumerable<RegistroDtoSalida>>(registros);
-                return result;
+                var user = JsonConvert.DeserializeObject<IEnumerable<RegistroDtoSalida>>(registros);
+                return user;
             }
         }
     }
