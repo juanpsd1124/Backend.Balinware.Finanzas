@@ -27,13 +27,26 @@ namespace Balinware.Finanzas.Application.UseCases.Auths
         { 
             var response = new Response<AuthDTO>();
 
-           
+            try 
+            {
                 var user = _unitOfWork.Auths.Authenticate(username, password);
                 response.Data = _mapper.Map<AuthDTO>(user);
                 response.IsSuccess = true;
                 response.Message = "Autenticacion Exitosa";
-            
-           
+            }
+            catch (InvalidOperationException)
+            {
+                response.IsSuccess = true;
+                response.Message = "Usuario no existe";
+            }
+            catch (Exception e)
+            {
+                response.Message = e.Message;
+            }
+            return response;
+
+
+
             return response;
         }    
     }

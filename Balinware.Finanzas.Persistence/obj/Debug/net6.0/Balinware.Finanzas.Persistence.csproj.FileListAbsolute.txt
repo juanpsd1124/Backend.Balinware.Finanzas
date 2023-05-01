@@ -57,3 +57,24 @@ C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware
 C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\refint\Balinware.Finanzas.Persistence.dll
 C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\Balinware.Finanzas.Persistence.pdb
 C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\ref\Balinware.Finanzas.Persistence.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Persistence.deps.json
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Persistence.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Persistence.pdb
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Application.DTO.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Application.Interface.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Domain.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Transversal.Common.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Application.Interface.pdb
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Application.DTO.pdb
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Domain.pdb
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\bin\Debug\net6.0\Balinware.Finanzas.Transversal.Common.pdb
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\Balinware.Finanzas.Persistence.csproj.AssemblyReference.cache
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\Balinware.Finanzas.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\Balinware.Finanzas.Persistence.AssemblyInfoInputs.cache
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\Balinware.Finanzas.Persistence.AssemblyInfo.cs
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\Balinware.Finanzas.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\Balinware.Finanzas.Persistence.csproj.CopyComplete
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\Balinware.Finanzas.Persistence.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\refint\Balinware.Finanzas.Persistence.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\Balinware.Finanzas.Persistence.pdb
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Persistence\obj\Debug\net6.0\ref\Balinware.Finanzas.Persistence.dll

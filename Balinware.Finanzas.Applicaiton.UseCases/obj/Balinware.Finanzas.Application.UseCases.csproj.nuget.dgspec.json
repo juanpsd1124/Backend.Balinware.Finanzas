@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Application.UseCases.csproj": {}
+    "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Application.UseCases.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj": {
+    "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj",
         "projectName": "Balinware.Finanzas.Application.Interface",
-        "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj",
-        "packagesPath": "C:\\Users\\Juan Posada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\obj\\",
+        "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\liwep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Juan Posada\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\liwep\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,21 +22,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj": {
-                "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj"
+              "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj"
               },
-              "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {
-                "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj"
+              "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {
+                "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj"
               },
-              "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj"
+              "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj"
               }
             }
           }
@@ -74,21 +69,17 @@
         }
       }
     },
-    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Application.UseCases.csproj": {
+    "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Application.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Application.UseCases.csproj",
+        "projectUniqueName": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Application.UseCases.csproj",
         "projectName": "Balinware.Finanzas.Application.UseCases",
-        "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Application.UseCases.csproj",
-        "packagesPath": "C:\\Users\\Juan Posada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\obj\\",
+        "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\Balinware.Finanzas.Application.UseCases.csproj",
+        "packagesPath": "C:\\Users\\liwep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Applicaiton.UseCases\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Juan Posada\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\liwep\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,21 +87,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj": {
-                "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj"
+              "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj": {
+                "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Aplicacion.Interface\\Balinware.Finanzas.Application.Interface.csproj"
               },
-              "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj": {
-                "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj"
+              "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj"
               },
-              "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
-                "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj"
+              "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj"
               }
             }
           }
@@ -158,21 +148,17 @@
         }
       }
     },
-    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj": {
+    "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj",
         "projectName": "Balinware.Finanzas.Application.DTO",
-        "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj",
-        "packagesPath": "C:\\Users\\Juan Posada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\obj\\",
+        "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\Balinware.Finanzas.Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\liwep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Application.DTO\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Juan Posada\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\liwep\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -180,7 +166,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -218,21 +203,17 @@
         }
       }
     },
-    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {
+    "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
         "projectName": "Balinware.Finanzas.Domain",
-        "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
-        "packagesPath": "C:\\Users\\Juan Posada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\obj\\",
+        "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
+        "packagesPath": "C:\\Users\\liwep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Juan Posada\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\liwep\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -240,7 +221,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -278,21 +258,17 @@
         }
       }
     },
-    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
+    "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj",
+        "projectUniqueName": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj",
         "projectName": "Balinware.Finanzas.Transversal.Common",
-        "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj",
-        "packagesPath": "C:\\Users\\Juan Posada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\obj\\",
+        "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\Balinware.Finanzas.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\liwep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Transversal.Common\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Juan Posada\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\liwep\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -300,7 +276,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

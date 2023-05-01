@@ -34,3 +34,15 @@ C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware
 C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\refint\Balinware.Finanzas.Domain.dll
 C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\Balinware.Finanzas.Domain.pdb
 C:\Users\Juan Posada\Documents\Groware Test\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\ref\Balinware.Finanzas.Domain.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\bin\Debug\net6.0\Balinware.Finanzas.Domain.deps.json
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\bin\Debug\net6.0\Balinware.Finanzas.Domain.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\bin\Debug\net6.0\Balinware.Finanzas.Domain.pdb
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\Balinware.Finanzas.Domain.csproj.AssemblyReference.cache
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\Balinware.Finanzas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\Balinware.Finanzas.Domain.AssemblyInfoInputs.cache
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\Balinware.Finanzas.Domain.AssemblyInfo.cs
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\Balinware.Finanzas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\Balinware.Finanzas.Domain.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\refint\Balinware.Finanzas.Domain.dll
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\Balinware.Finanzas.Domain.pdb
+C:\Users\liwep\Documents\Juan Posada\Groware\Backend\Backend.Balinware.Finanzas\Balinware.Finanzas.Domain\obj\Debug\net6.0\ref\Balinware.Finanzas.Domain.dll

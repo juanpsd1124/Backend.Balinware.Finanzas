@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {}
+    "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {
+    "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
         "projectName": "Balinware.Finanzas.Domain",
-        "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
-        "packagesPath": "C:\\Users\\Juan Posada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\obj\\",
+        "projectPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\Balinware.Finanzas.Domain.csproj",
+        "packagesPath": "C:\\Users\\liwep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\liwep\\Documents\\Juan Posada\\Groware\\Backend\\Backend.Balinware.Finanzas\\Balinware.Finanzas.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Juan Posada\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\liwep\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

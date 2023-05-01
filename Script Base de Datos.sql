@@ -2,13 +2,15 @@ CREATE DATABASE Movimientos
 
 CREATE TABLE Usuario (
     Id_Usuario SMALLINT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-    Username varchar(30) NOT NULL,
-    Password varchar(150) NOT NULL
+    Username varchar(30) NOT NULL UNIQUE,
+    Password varchar(150) NOT NULL,
+	Email varchar(100) NOT NULL UNIQUE,
+	FirstName varchar(100) NOT NULL,
+	LastName varchar(100) NOT NULL
 )
 
-INSERT INTO Usuario VALUES ('dmolina','contrasena1234')
-INSERT INTO Usuario VALUES ('jposada','contrasena1234')
-INSERT INTO Usuario VALUES ('jmeza','contrasena1234')
+INSERT INTO Usuario VALUES ('jposada','contrasena1234', 'jposada@test.com', 'Juan', 'Posada')
+
 
 CREATE TABLE Tipo(
     Id_Tipo TINYINT NOT NULL PRIMARY KEY,
@@ -165,9 +167,8 @@ BEGIN
     SELECT Id_Usuario, Username, Email, FirstName, LastName, NULL as Password
     FROM Usuario
     WHERE UserName = @UserName and Password = @Password
+	FOR JSON PATH, WITHOUT_ARRAY_WRAPPER
 END
-
-EXEC UsersGetByUserAndPassword 'juan','contrasena1234'
 
 SELECT Id_Usuario, Username, Email, FirstName, LastName, Password
     FROM Usuario
@@ -175,6 +176,8 @@ SELECT Id_Usuario, Username, Email, FirstName, LastName, Password
 
 INSERT INTO Usuario VALUES ('jposada','contrasena1234','jposada@test.com', 'Juan', 'Posada')
 
+
+EXEC UsersGetByUserAndPassword 'jposada','contrasena1234'
  
 
  
