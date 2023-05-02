@@ -9,6 +9,13 @@ CREATE TABLE Usuario (
 	LastName varchar(100) NOT NULL
 )
 
+ALTER TABLE Usuario ADD
+	Email varchar(100),
+	FirstName varchar(100) ,
+	LastName varchar(100)
+
+ 
+
 INSERT INTO Usuario VALUES ('jposada','contrasena1234', 'jposada@test.com', 'Juan', 'Posada')
 
 
